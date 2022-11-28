@@ -18,7 +18,8 @@ jobs:
           file: ./scr/Dockerfile
           push: true
           tags: |
-          smsouza/kube-news
-          smsouza/kube-news:latest
+          fabricioveronez/live-kube-news:v1
+          fabricioveronez/live-kube-news:latest
+        
           
         
